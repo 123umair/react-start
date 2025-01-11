@@ -1,12 +1,11 @@
-# React + Vite
+# React + Vite Setup Template
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-**step1**: 
-  ``` bash
-       npm install
-**step2**:
-```
-        npm run dev
-**step3**:
-    
+---
+
+## Steps to Get Started
+
+### Step 1: Install Dependencies
+```bash
+npm install
