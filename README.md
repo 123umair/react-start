@@ -9,3 +9,8 @@ This template provides a minimal setup to get React working in Vite with HMR and
 ### Step 1: Install Dependencies
 ```bash
 npm install
+
+### step 2: Run the Development Server
+npm run dev
+
+
